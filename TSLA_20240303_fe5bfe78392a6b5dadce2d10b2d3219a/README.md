@@ -1,0 +1,5 @@
+![](D:\PROGRAMS Python\majorproject\TSLA_20240303_fe5bfe78392a6b5dadce2d10b2d3219a/Tesla,%20Inc_price.png)
+![](D:\PROGRAMS Python\majorproject\TSLA_20240303_fe5bfe78392a6b5dadce2d10b2d3219a/Tesla,%20Inc_hist.png)
+![](D:\PROGRAMS Python\majorproject\TSLA_20240303_fe5bfe78392a6b5dadce2d10b2d3219a/Tesla,%20Inc_prediction.png)
+![](D:\PROGRAMS Python\majorproject\TSLA_20240303_fe5bfe78392a6b5dadce2d10b2d3219a/Tesla,%20Inc_MSE.png)
+![](D:\PROGRAMS Python\majorproject\TSLA_20240303_fe5bfe78392a6b5dadce2d10b2d3219a/Tesla,%20Inc_loss.png)

@@ -1,0 +1,5 @@
+![](D:\PROGRAMS Python\majorproject\BTC-USD_20240222_44fdab454d2d07b401e581382a763dd5/Bitcoin%20USD_price.png)
+![](D:\PROGRAMS Python\majorproject\BTC-USD_20240222_44fdab454d2d07b401e581382a763dd5/Bitcoin%20USD_hist.png)
+![](D:\PROGRAMS Python\majorproject\BTC-USD_20240222_44fdab454d2d07b401e581382a763dd5/Bitcoin%20USD_prediction.png)
+![](D:\PROGRAMS Python\majorproject\BTC-USD_20240222_44fdab454d2d07b401e581382a763dd5/Bitcoin%20USD_MSE.png)
+![](D:\PROGRAMS Python\majorproject\BTC-USD_20240222_44fdab454d2d07b401e581382a763dd5/Bitcoin%20USD_loss.png)

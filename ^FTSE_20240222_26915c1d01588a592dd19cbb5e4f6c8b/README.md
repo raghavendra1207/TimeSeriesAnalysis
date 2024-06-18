@@ -1,0 +1,5 @@
+![](D:\PROGRAMS Python\majorproject\^FTSE_20240222_26915c1d01588a592dd19cbb5e4f6c8b/FTSE%20100_price.png)
+![](D:\PROGRAMS Python\majorproject\^FTSE_20240222_26915c1d01588a592dd19cbb5e4f6c8b/FTSE%20100_hist.png)
+![](D:\PROGRAMS Python\majorproject\^FTSE_20240222_26915c1d01588a592dd19cbb5e4f6c8b/FTSE%20100_prediction.png)
+![](D:\PROGRAMS Python\majorproject\^FTSE_20240222_26915c1d01588a592dd19cbb5e4f6c8b/FTSE%20100_MSE.png)
+![](D:\PROGRAMS Python\majorproject\^FTSE_20240222_26915c1d01588a592dd19cbb5e4f6c8b/FTSE%20100_loss.png)

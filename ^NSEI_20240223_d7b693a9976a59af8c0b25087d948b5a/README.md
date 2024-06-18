@@ -1,0 +1,5 @@
+![](D:\PROGRAMS Python\majorproject\^NSEI_20240223_d7b693a9976a59af8c0b25087d948b5a/NIFTY%2050_price.png)
+![](D:\PROGRAMS Python\majorproject\^NSEI_20240223_d7b693a9976a59af8c0b25087d948b5a/NIFTY%2050_hist.png)
+![](D:\PROGRAMS Python\majorproject\^NSEI_20240223_d7b693a9976a59af8c0b25087d948b5a/NIFTY%2050_prediction.png)
+![](D:\PROGRAMS Python\majorproject\^NSEI_20240223_d7b693a9976a59af8c0b25087d948b5a/NIFTY%2050_MSE.png)
+![](D:\PROGRAMS Python\majorproject\^NSEI_20240223_d7b693a9976a59af8c0b25087d948b5a/NIFTY%2050_loss.png)
